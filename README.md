@@ -27,7 +27,7 @@ If you want to use the [OpenShift create application page](https://openshift.red
 
 Or if you want to use the [rhc command line](https://www.openshift.com/developers/rhc-client-tools-install) type:
 
-    rhc app create -g large <APP NAME> https://raw.githubusercontent.com/eschabell/cartridge-brmsPaaS/master/metadata/manifest.yml
+    rhc app create -g medium <APP NAME> https://raw.githubusercontent.com/eschabell/cartridge-brmsPaaS/master/metadata/manifest.yml
 
 This will output the generated users and passwords for Business Central.
 
