@@ -1,9 +1,9 @@
-## Cartridge for bpmPaaS with CoolStore Demo
+## Cartridge for brmsPaaS by JBoss BRMS on OpenShift
 
 This cartridge provides the **_Red Hat JBoss BRMS_** for easy deployment to OpenShift based bpmPaaS with JBoss BRMS.
 
 
-Install with one click in xPaaS (bpmPaaS)
+Install with one click in xPaaS (brmsPaaS)
 -----------------------------------------
 After clicking button, ensure `Gear` size is set to `large`:
 
